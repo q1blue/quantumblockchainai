@@ -21,7 +21,7 @@
     "@sanity/icons": "2.10.3",
     "@sanity/image-url": "1.0.2",
     "@sanity/preview-url-secret": "1.6.4",
-    "@sanity/vision": "3.31.0",
+    "@sanity/vision": "3.36.0",
     "@sanity/visual-editing": "1.6.0",
     "@tailwindcss/typography": "0.5.10",
     "@vercel/og": "0.6.2",
